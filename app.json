@@ -1,4 +1,5 @@
 {
   "name": "NoteNest",
-  "displayName": "NoteNest"
+  "displayName": "NoteNest",
+  "softwareKeyboardLayoutMode": "pan"
 }
